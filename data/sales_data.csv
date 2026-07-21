@@ -1,0 +1,26 @@
+Date,Region,Category,Product,Units Sold,Unit Price,Revenue
+2025-01-05,North,Electronics,Wireless Mouse,45,499,22455
+2025-01-07,South,Electronics,Bluetooth Speaker,30,1299,38970
+2025-01-10,East,Clothing,Cotton T-Shirt,120,299,35880
+2025-01-12,West,Electronics,USB-C Cable,200,199,39800
+2025-01-15,North,Home & Kitchen,Non-stick Pan,25,899,22475
+2025-01-18,South,Clothing,Denim Jeans,60,1299,77940
+2025-01-20,East,Electronics,Power Bank,80,899,71920
+2025-01-22,West,Home & Kitchen,LED Desk Lamp,40,699,27960
+2025-02-02,North,Clothing,Formal Shirt,55,799,43945
+2025-02-05,South,Home & Kitchen,Air Fryer,15,3499,52485
+2025-02-08,East,Electronics,Wireless Earbuds,90,1499,134910
+2025-02-10,West,Clothing,Winter Jacket,35,1999,69965
+2025-02-14,North,Electronics,Smartwatch,20,2999,59980
+2025-02-17,South,Electronics,Wireless Mouse,50,499,24950
+2025-02-20,East,Home & Kitchen,Electric Kettle,45,799,35955
+2025-02-23,West,Clothing,Cotton T-Shirt,150,299,44850
+2025-03-01,North,Home & Kitchen,Air Fryer,20,3499,69980
+2025-03-04,South,Electronics,Power Bank,70,899,62930
+2025-03-08,East,Clothing,Denim Jeans,65,1299,84435
+2025-03-11,West,Electronics,Bluetooth Speaker,40,1299,51960
+2025-03-15,North,Clothing,Winter Jacket,25,1999,49975
+2025-03-18,South,Home & Kitchen,LED Desk Lamp,55,699,38445
+2025-03-21,East,Electronics,Smartwatch,18,2999,53982
+2025-03-25,West,Home & Kitchen,Electric Kettle,38,799,30362
+2025-03-28,North,Electronics,Wireless Earbuds,75,1499,112425
