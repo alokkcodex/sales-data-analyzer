@@ -77,5 +77,6 @@ Winter Jacket       119940
 - Build an interactive dashboard using Streamlit
 - Add year-over-year comparison once more data is available
 
----
-*Built as part of my Data Analyst skill-building journey.*
+
+
+
